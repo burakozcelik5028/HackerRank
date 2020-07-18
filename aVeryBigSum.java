@@ -1,3 +1,4 @@
+// https://github.com/burakozcelik5028/HackerRank/issues/2
 import java.io.*;
 import java.math.*;
 import java.security.*;
